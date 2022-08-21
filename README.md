@@ -1,2 +1,2 @@
-# netflix-clone - UMAR
+# Netflix-clone - UMAR
  
