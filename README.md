@@ -1,4 +1,4 @@
-# Netflix-clone - UMAR
+# Netflix-clone --- UMAR
 
 ### See demo here ....  https://netflixclone-webapp.netlify.app/
 
